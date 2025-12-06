@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/IamAJ2808/IamAJ2808/blob/master/images/LinkedIn%20Banner.png)](https://www.linkedin.com/in/iamaravindkumar)
+[![MasterHead](https://github.com/IamAJ2808/IamAJ2808/blob/master/images/Github%20Banner.png)](https://www.linkedin.com/in/iamaravindkumar)
 
 <h1 align="center">Hi 👋, I'm Aravind Kumar J</h1>
 <h2>I’m a Full-Stack Engineering Leader with 10+ years of experience building scalable, high-quality web applications for fast-growing SaaS products.</h2>
