@@ -1,38 +1,34 @@
 [![MasterHead](https://github.com/IamAravindKumar/IamAravindKumar/blob/master/images/cover%20image.png)](https://www.linkedin.com/in/iamaravindkumar)
 
-<h1 align="center">Hi 👋, I'm Aravind Kumar J</h1>
-<h2>I’m a Full-Stack Engineering Leader with 10+ years of experience building scalable, high-quality web applications for fast-growing SaaS products.</h2>
+### Hi 👋, I'm Aravind Kumar J
 
-<p>I specialize in JavaScript, React, TypeScript, Node.js, and Next.js, and I’m passionate about designing systems that are clean, maintainable, and built to scale. Over the years, I’ve contributed to engineering highly performant UIs, architected end-to-end solutions, and driven technical excellence within cross-functional teams. Beyond technical depth, I bring strong leadership in mentoring engineers, reviewing architecture decisions, and elevating engineering practices to ship better software—faster.</p>
+I'm an engineering leader with 10+ years of experience, currently functioning as Engineering Manager for a 12-engineer team at Freshworks — building scalable, high-quality SaaS platforms while staying hands-on with architecture and system design.
 
-<h3>𝗪𝗵𝗮𝘁 𝗜 𝗗𝗼 𝗕𝗲𝘀𝘁</h3>
+I lead teams end to end: hiring, mentorship, performance and career development, and delivery ownership — alongside setting technical direction in React, TypeScript, Node.js, and Next.js. I care about building teams and systems that are both reliable and built to scale.
 
--  <b>Full-Stack Product Development:</b> Crafting reliable, scalable, user-centric applications from concept to deployment.
--  <b>Frontend Engineering Expertise:</b> Building fast, intuitive interfaces that improve conversions, user satisfaction, and overall product usability.
--  <b>Backend & API Architecture:</b> Creating secure, optimized, well-structured backend systems and data flows.
--  <b>Performance & Scalability:</b> Reducing load times, optimizing rendering, and improving system resilience for high-traffic SaaS platforms.
--  <b>Team Leadership & Mentorship:</b> Guiding engineers, driving code quality, conducting technical interviews, and establishing best practices.
--  <b>Tech Strategy & Problem Solving:</b> Translating business requirements into efficient technical solutions that deliver measurable outcomes.
+**What I focus on**
 
-<h3>𝗛𝗼𝘄 𝗜 𝗖𝗿𝗲𝗮𝘁𝗲 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗺𝗽𝗮𝗰𝘁</h3>
+- Team leadership — hiring, mentoring, performance and career development, 1:1s
+- Delivery ownership — sprint planning, roadmap, cross-functional alignment
+- Technical direction — architecture decisions, system design, engineering standards
+- Full-stack depth — React, TypeScript, Node.js, Next.js, API and data architecture
 
--  Improved product performance, leading directly to higher user retention and engagement.
--  Introduced scalable engineering patterns, reducing development bottlenecks and future tech debt.
--  Mentored and shaped engineering talent to build high-quality, production-ready features with confidence.
+**Impact I've driven**
 
-<h3>𝗕𝗲𝘆𝗼𝗻𝗱 𝗪𝗼𝗿𝗸 — 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗕𝘂𝗶𝗹𝗱𝗲𝗿</h3>
+- Led architecture decisions that cut dashboard load time by 40%, validated against Core Web Vitals
+- Reduced technical debt and cut feature scaffolding time by 50% through reusable architecture patterns
+- Built onboarding programmes that cut new-engineer time-to-productivity by 3 weeks
+- Improved sprint velocity by 25% by removing recurring delivery blockers
 
-I am also the founder of Digital Dreamers Den (D3), a vibrant tech community for AI full-stack developers focused on knowledge sharing, mentorship, and collaborative learning.
-It’s my way of contributing to the next generation of engineers while staying connected with real-world technical challenges.
+**Beyond work — community builder**
 
-<h3>𝗪𝗵𝗮𝘁 𝗜’𝗺 𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗢𝗻 𝗡𝗼𝘄</h3>
+I founded [Digital Dreamers Den (D3)](#), a 3,500+ engineer community focused on AI-native development. I host bimonthly meetups for 150+ engineers and mentor developers moving into Staff, Principal, and leadership roles.
 
--  Strengthening my leadership path in full-stack engineering
--  Helping SaaS teams build scalable web platforms
--  Collaborating on impactful projects that blend strong engineering with strong business outcomes
+**What I'm focused on now**
 
-If you’re building something exciting — whether it’s a product, platform, or community — I’d love to connect.
-Let’s create meaningful digital experiences together.
+Looking for my next role as an Engineering Manager, where I can combine people leadership, delivery ownership, and technical judgment to help a team ship at scale.
+
+If you're building something ambitious — a product, platform, or team — I'd love to connect.
 
 <h3 align="left">Connect with me:</h3>
 <table>
