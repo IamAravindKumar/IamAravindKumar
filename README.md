@@ -22,7 +22,7 @@ I lead teams end to end: hiring, mentorship, performance and career development,
 
 **Beyond work — community builder**
 
-I founded [Digital Dreamers Den (D3)](#), a 3,500+ engineer community focused on AI-native development. I host bimonthly meetups for 150+ engineers and mentor developers moving into Staff, Principal, and leadership roles.
+I founded [Digital Dreamers Den (D3)](https://digitaldreamersden.in), a 3,500+ engineer community focused on AI-native development. I host bimonthly meetups for 150+ engineers and mentor developers moving into Staff, Principal, and leadership roles.
 
 **What I'm focused on now**
 
