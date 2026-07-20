@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/IamAravindKumar/IamAravindKumar/blob/master/images/cover%20image.png)](https://www.linkedin.com/in/iamaravindkumar)
+[![MasterHead](https://github.com/IamAravindKumar/IamAravindKumar/blob/master/images/EM%20cover%20image.png)](https://www.linkedin.com/in/iamaravindkumar)
 
 ### Hi 👋, I'm Aravind Kumar J
 
